@@ -17,7 +17,7 @@ A simple command-line based Expense Tracker built with Node.js. It allows users 
 
 ## 📦 Prerequisites
 
-- [Node.js](https://nodejs.org/) installed
+- [Node.js](https://nodejs.org/) v12 or later
 
 ---
 
@@ -25,7 +25,7 @@ A simple command-line based Expense Tracker built with Node.js. It allows users 
 ```
 .
 ├── index.js           # Main CLI script
-├── expenses.json      # Auto-created data file (stores expenses)
+├── expenses.json      # Stores expenses
 └── README.md          # Project documentation
 ```
 ---
