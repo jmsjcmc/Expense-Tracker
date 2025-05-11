@@ -20,6 +20,12 @@ A simple command-line based Expense Tracker built with Node.js. It allows users 
 - [Node.js](https://nodejs.org/) v12 or later
 
 ---
+## 🚀 Setup
+
+  
+
+1. **Clone the repository** or download the files.
+---
 
 ## 📂 Project Structure
 ```
