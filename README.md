@@ -1,4 +1,5 @@
 
+
 # 💸 Expense Tracker CLI
 
 A simple command-line based Expense Tracker built with Node.js. It allows users to add, update, delete, list, and summarize expenses saved in a local JSON file.
@@ -13,19 +14,19 @@ A simple command-line based Expense Tracker built with Node.js. It allows users 
 - ✅ View total expenses for a specific month (of the current year)
 - 📁 Data is saved to a local `expenses.json` file
 
----
+
 
 ## 📦 Prerequisites
 
 - [Node.js](https://nodejs.org/) v12 or later
 
----
+
 ## 🚀 Setup
 
   
 
 1. **Clone the repository** or download the files.
----
+
 
 ## 📂 Project Structure
 ```
@@ -34,7 +35,7 @@ A simple command-line based Expense Tracker built with Node.js. It allows users 
 ├── expenses.json      # Stores expenses
 └── README.md          # Project documentation
 ```
----
+
 ## 🛠️ Usage
 Run the app using `node index.js` followed by a command:
 
@@ -62,14 +63,14 @@ node index.js summary
 ```bash
 node index.js summary --month 5
 ```
----
+
 
 ## 📌 Notes
 
  - Dates are automatically recorded in `YYYY-MM-DD` format.
  - Expenses are stored with `id`, `description`, `amount`, and `date`.
  - JSON parsing errors or invalid inputs will exit the program with an error message.
- ---
+ 
 
 ## 🧪 Example
 ```bash
@@ -81,6 +82,6 @@ node index.js list
 node index.js summary
 # Total expenses: $300
 ```
----
+
 ## 📁 Project URL
 https://roadmap.sh/projects/expense-tracker
