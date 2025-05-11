@@ -15,7 +15,7 @@ A simple command-line based Expense Tracker built with Node.js. It allows users 
 
 ---
 
-## 📦 Prerequisites
+## 📦 Requirements
 
 - [Node.js](https://nodejs.org/) v12 or later
 
